@@ -1,0 +1,13 @@
+/shared
+/local-config.php
+/sql-dump-*.sql
+/db-sync
+/wp-content/mu-plugins/*
+/wp-content/plugins/*
+/wp-content/themes/*
+/wp
+/vendor
+composer.lock
+/wp-config.php
+.DS_Store
+/nbproject
