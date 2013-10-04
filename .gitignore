@@ -4,6 +4,7 @@
 /db-sync
 /wp
 /vendor
+/nbproject
 composer.lock
 /wp-config.php
 .DS_Store
