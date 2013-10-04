@@ -2,9 +2,6 @@
 /local-config.php
 /sql-dump-*.sql
 /db-sync
-/wp-content/mu-plugins/*
-/wp-content/plugins/*
-/wp-content/themes/*
 /wp
 /vendor
 composer.lock
