@@ -8,7 +8,7 @@
         "wpackagist/advanced-custom-fields": "4.2.*",
         "wpackagist/posts-to-posts": "1.6.x",
         "wpackagist/wordpress-seo": "1.4.*",
-        "wpackagist/adarta/roots-with-sidenav": "6.5.*"
+        "adarta/roots-with-sidenav": "6.5.*"
     },
     "repositories": [
         {
@@ -29,6 +29,22 @@
                     "fancyguy/webroot-installer": "1.0.0"
                 }
             }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "adarta/roots-with-sidenav",
+                "type": "wordpress-theme",
+                "version": "6.5.2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/ADARTA/roots-with-sidenav/archive/6.5.2.zip"
+                },
+                "require": {
+                    "php": ">=5.3.0",
+                    "composer/installers": "~1.0"
+                }
+           }
         }
     ],
     "extra": {
