@@ -3,3 +3,4 @@
 # Except these files
 !.gitignore
 !register-theme-directory.php
+!/wp-setup.php
