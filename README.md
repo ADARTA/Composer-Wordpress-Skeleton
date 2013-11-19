@@ -18,7 +18,7 @@ Use it to jump-start your WordPress site repos, or fork it and customize it to y
 **Q:** What process do I follow after a clone?  
 **A:** You will follow the next steps:
 
-*  `compose install` ran from your command line in the cloned project directory
+*  `composer install` ran from your command line in the cloned project directory
 *  Rename or Copy `wp-config-edit-and-rename.php` to `wp-config.php` and change the necessary information changes (database, etc).
 *  Run your project site `/wp/wp-admin/` and under Settings >> General change the Wordpress Address to have `/wp` like `http://www.example.com/wp` and your Site Address would be `http://www.example.com`
 *  Now, go fork this repo and play around with some custom installs of your own.
