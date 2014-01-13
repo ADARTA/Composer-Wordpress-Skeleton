@@ -35,7 +35,7 @@
             "package": {
                 "name": "roots/roots",
                 "type": "wordpress-theme",
-                "version": "6.5.1",
+                "version": "6.5.1.0001",
                 "dist": {
                     "type": "zip",
                     "url": "https://github.com/roots/roots/archive/master.zip"
