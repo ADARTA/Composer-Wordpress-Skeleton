@@ -1,4 +1,4 @@
-# Composer WordPress Skeleton
+# [Deprecated-No Longer Supported] Composer WordPress Skeleton
 
 This is simply a skeleton repo for a WordPress site.  It is a light weight repo that will allow you to quickly setup your configuration.
 
